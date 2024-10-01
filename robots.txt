@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oliqov.github.io/Alx/sitemap.Alx.gz
